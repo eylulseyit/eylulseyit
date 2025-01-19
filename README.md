@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Eylül! 👋
 
-<!--
-**eylulseyit/eylulseyit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with a love for creating innovative solutions and learning new technologies. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C, C++, JavaScript, Java
+- **Frameworks:** React, Node.js, Express
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, Docker, VS Code
+
+## 📈 GitHub Stats
+
+![Eylul's GitHub stats](https://github-readme-stats.vercel.app/api?username=eylulseyit&show_icons=true&theme=radical)
+
+## 📫 Get in Touch
+
+- **Email:** eylulseyitoglu1@gmail.com
+
+## 📚 Education
+
+- **Bachelor's Degree in Computer Engineering** - Dokuz Eylul University (2021-)
+
+## 🌍 Languages
+
+- English (Fluent)
+- Turkish (Native)
+
+Feel free to explore my repositories and get in touch if you'd like to collaborate on something interesting!
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=eylulseyit)
