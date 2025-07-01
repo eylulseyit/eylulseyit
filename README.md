@@ -19,7 +19,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## 📚 Education
 
-- **Bachelor's Degree in Computer Engineering** - Dokuz Eylul University (2021-)
+- **Bachelor's Degree in Computer Engineering** - Dokuz Eylul University (student)
 
 ## 🌍 Languages
 
