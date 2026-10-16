@@ -1,4 +1,4 @@
-# Hi there, I'm Eylül! 👋
+# Hi there, I'm Eylül!
 
 ## 📈 GitHub Stats
 
